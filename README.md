@@ -1,29 +1,40 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <body>
-<h1 style = "font-size:32 "align="center">~
-🅑🅘🅔🅝🅥🅔🅝🅘🅓🅞 🅐  🅜🅘 🅟🅔🅡🅕🅘🅛
+<h1 style = "font-size:48px;   display: flex; align-items: center; justify-content: center; height: 100%;"align="center">
+     🅦 🅔 🅛 🅒 🅞 🅜 🅔 &nbsp;&nbsp;&nbsp;&nbsp; 🅣 🅞&nbsp;&nbsp;&nbsp;&nbsp;  🅜 🅨&nbsp;&nbsp;&nbsp;&nbsp; 🅟 🅡 🅞 🅕 🅘 🅛 🅔 
+    <img width="250px" height="250px" style="margin-left:50px;border-radius:50%; border-style:solid; border-color:black; box-shadow: 10px 10px 5px #ccc;"  src="https://www.nicepng.com/png/full/957-9574965_anubis-clipart-adorable-cartoon.png">
 </h1>
 <br>
-<div align="center">
-    <img src="dogo.png>
+
+<div>
+    <h2 style="font-size:30px" align="center"> 🕊 🅐 🅑 🅞 🅤 🅣  &nbsp;&nbsp; 🅜 🅔 🕊 </h2>
+    <li>
+        <b>Name:</b> Johantb</li>
+    <li>
+        <b>Nationality:</b> Perú 🇵🇪
+    </li>
+    <li>
+        <b>Likes:</b> Sour desserts and spicy food -///-
+    </li>
+    <li>
+        <b>Gender:</b> Male
+    </li>
+    <li>
+        <b>Hobbies:</b> Music, Games and Technology Stuff
+    </li>
+    <br>
+    <p>
 </div>
+
+<div>
+    <h2 style="font-size:30px"  align="center"> 🕊 🅚 🅝 🅞 🅦 🅛 🅔 🅓 🅖 🅔 🕊 </h2>
+    <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src = "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+    <img src = "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+    <img src = "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+    <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</div>
+
+
 </body>
-=======
-### Hi there 👋
-
->>>>>>> parent of 891b67c (test title)
-<!--
-**JohanBTB/JohanBTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
