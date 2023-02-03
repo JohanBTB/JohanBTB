@@ -8,6 +8,7 @@
 
 <div>
     <h2 style="font-size:30px" align="center"> 🕊 🅐 🅑 🅞 🅤 🅣  &nbsp;&nbsp; 🅜 🅔 🕊 </h2>
+    <br>
     <li>
         <b>Name:</b> Johantb</li>
     <li>
@@ -28,6 +29,8 @@
 
 <div>
     <h2 style="font-size:30px"  align="center"> 🕊 🅚 🅝 🅞 🅦 🅛 🅔 🅓 🅖 🅔 🕊 </h2>
+    <br>
+    <br>
     <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src = "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
     <img src = "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
