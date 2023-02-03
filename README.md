@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <body>
 <h1 style = "font-size:32 "align="center">~
@@ -8,6 +9,10 @@
     <img src="dogo.png>
 </div>
 </body>
+=======
+### Hi there 👋
+
+>>>>>>> parent of 891b67c (test title)
 <!--
 **JohanBTB/JohanBTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
